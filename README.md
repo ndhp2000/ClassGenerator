@@ -7,12 +7,13 @@ Ex:  CG.exe Circle.txt Circle
 <br/>
 
 <br/>
-Please note that your input file must have the structure as follow: 
-  - The first line is the name of your class (without any special characters) 
-  - Every next line is started with the data type followed by names of variables (every word must be seperated by some spaces and not contain any special characters.)
-  - You can see an example in Circle.txt.
+Please note that your input file must have the structure as follow: <br/>
+  - The first line is the name of your class (without any special characters) <br/> 
+  - Every next line is started with the data type followed by names of variables (every word must be seperated by some spaces and not contain any special characters.)<br/>
+  - You can see an example in Circle.txt.<br/>
   
-P.S: This is just for doing assignments in my University, so the code is really crazy and chaotic (TT Please don't judge me on that sh**). You can freely edit it to match your coding convention. 
+P.S: This is just for doing assignments in my University, so the code is really crazy and chaotic (TT Please don't judge me on that sh**). <br/>
+You can freely edit it to match your coding convention. 
 
 <br/>
 
