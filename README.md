@@ -1,10 +1,9 @@
 # ClassGenerator
 <h3> Create a C++ class with Setter, Getter, Constructor, Destructor. </h3>
-<br/> <br/>
 To run this file, just open CMD, then jump into the Folder you want to create Class. 
 Type this Command Line:  <br/>
 CG.exe "Your input file" "Name of your Class" <br/>
-Please note that your Input-File must have the structure as follow:
+Please note that your Input-File must have the structure as follow: <br/>
   - The first line is the name of your class (without any special characters)
   - Every next line is started with the data type followed with names of variables (every word must be seperated by some spaces and not contain any special characters.)
   - You can see an example in Input.txt.
