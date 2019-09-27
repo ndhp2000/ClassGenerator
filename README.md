@@ -3,7 +3,7 @@
 <br/> <br/>
 To run this file, just open CMD, then jump into the Folder you want to create Class. 
 Type this Command Line:  <br/>
-   &nbsp&nbsp&nbsp&nbsp CG.exe "Your input file" "Name of your Class" <br/>
+CG.exe "Your input file" "Name of your Class" <br/>
 Please note that your Input-File must have the structure as follow:
   - The first line is the name of your class (without any special characters)
   - Every next line is started with the data type followed with names of variables (every word must be seperated by some spaces and not contain any special characters.)
