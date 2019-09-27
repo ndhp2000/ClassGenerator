@@ -8,7 +8,7 @@ Ex:  CG.exe Circle.txt Circle
 
 <br/>
 Please note that your input file must have the structure as follow: 
-  - The first line is the name of your class (without any special characters)
+  - The first line is the name of your class (without any special characters) 
   - Every next line is started with the data type followed by names of variables (every word must be seperated by some spaces and not contain any special characters.)
   - You can see an example in Circle.txt.
   
